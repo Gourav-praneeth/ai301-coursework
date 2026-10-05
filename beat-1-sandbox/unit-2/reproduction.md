@@ -24,7 +24,7 @@ comments upstream are identified by this name.]
 
 **Claim comment**
 
-https://github.com/codepath/pathreview-ai301-fa26-s1/issues/72#issuecomment-REPLACE_WITH_YOUR_COMMENT_ID
+https://github.com/codepath/pathreview-ai301-fa26-s1/issues/72#issuecomment-5989161222
 
 Hi, I'd like to take this as my first contribution. As I read it, verify_password in core/security.py lets UnknownHashError escape for an unrecognized hash instead of returning False. Next I'll set up the repo locally, reproduce it on current main, and post my environment, commands, and output here before I touch any code. If it reproduces, I'll then look at un-skipping the H-05 test in tests/unit/test_security.py.
 
